@@ -90,6 +90,7 @@ footer: `╭━━━[ *𝘼𝙅𝙐𝙎𝙏𝙀𝙎 𝙂𝘼𝙏𝘼𝘽𝙊�
 ┃⚙️ _${usedPrefix}on *:* off *antitwitter | antitw*_
 ┃⚙️ _${usedPrefix}on *:* off *soloprivados | pconly*_
 ┃⚙️ _${usedPrefix}on *:* off *sologrupos | gconly*_
+┃⚙️ _${usedPrefix}on *:* off *antiarabes | antiarabes*_
 ╰━━━━━━━━━━━━━⬣
 ${wm}`,
 title: null,
