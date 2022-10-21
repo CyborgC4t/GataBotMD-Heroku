@@ -447,6 +447,15 @@ throw false
 }
 global.opts['swonly'] = isEnable
 break
+
+case 'antiarabes':
+if (m.isGroup) {
+if (!(isAdmin || isOwner)) {
+global.dfail('admin', m, conn)
+throw false
+}}
+chat.antiarabes = isEnable 
+break
 default:
 if (!/[01]/.test(command)) return conn.sendMessage(m.chat, listMessage, {quoted: fkontak})		
 throw false
