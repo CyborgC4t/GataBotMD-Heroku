@@ -216,6 +216,7 @@ ${readMore}
 ┃⚙️ _${usedPrefix}on *:* off *antitwitter | antitw*_
 ┃⚙️ _${usedPrefix}on *:* off *soloprivados | pconly*_
 ┃⚙️ _${usedPrefix}on *:* off *sologrupos | gconly*_
+┃⚙️ _${usedPrefix}on *:* off *antiarabes | antiarabes*_
 *╰━━━━━━━━━━━━⬣*
 
 *╭━〔 GRUPO - RESUMEN 〕━⬣*
