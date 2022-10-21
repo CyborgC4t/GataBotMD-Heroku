@@ -49,6 +49,7 @@ rows: [
 {title: "🔗 𝘼𝙉𝙏𝙄 𝙏𝙒𝙄𝙏𝙏𝙀𝙍", description: "𝙀𝙡𝙞𝙢𝙞𝙣𝙖𝙧 𝙖 𝙡𝙖𝙨 𝙥𝙚𝙧𝙨𝙤𝙣𝙖𝙨 𝙦𝙪𝙚 𝙚𝙣𝙫𝙞𝙚𝙣 𝙚𝙣𝙡𝙖𝙘𝙚𝙨 𝙙𝙚 𝙏𝙬𝙞𝙩𝙩𝙚𝙧\n𝙍𝙚𝙢𝙤𝙫𝙚 𝙥𝙚𝙤𝙥𝙡𝙚 𝙬𝙝𝙤 𝙨𝙚𝙣𝙙 𝙡𝙞𝙣𝙠𝙨 𝙛𝙧𝙤𝙢 𝙏𝙬𝙞𝙩𝙩𝙚𝙧", rowId: `${usedPrefix + command} antitwitter`},
 {title: "⚜️ 𝙋𝘾𝙊𝙉𝙇𝙔", description: "𝙃𝙖𝙘𝙚𝙧 𝙦𝙪𝙚 𝙚𝙡 𝘽𝙤𝙩 𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙖 𝙨𝙤𝙡𝙤 𝙚𝙣 𝘾𝙝𝙖𝙩𝙨 𝙋𝙧𝙞𝙫𝙖𝙙𝙤𝙨\n𝙍𝙚𝙥𝙡𝙮 𝙤𝙣𝙡𝙮 𝙞𝙣 𝙋𝙧𝙞𝙫𝙖𝙩𝙚 𝘾𝙝𝙖𝙩𝙨", rowId: `${usedPrefix + command} pconly`},
 {title: "⚜️ 𝙂𝘾𝙊𝙉𝙇𝙔", description: "𝙃𝙖𝙘𝙚𝙧 𝙦𝙪𝙚 𝙚𝙡 𝘽𝙤𝙩 𝙧𝙚𝙨𝙥𝙤𝙣𝙙𝙖 𝙨𝙤𝙡𝙤 𝙚𝙣 𝘾𝙝𝙖𝙩𝙨 𝙙𝙚 𝙂𝙧𝙪𝙥𝙤𝙨\n𝙈𝙖𝙠𝙚 𝙩𝙝𝙚 𝘽𝙤𝙩 𝙧𝙚𝙨𝙥𝙤𝙣𝙙 𝙤𝙣𝙡𝙮 𝙞𝙣 𝙂𝙧𝙤𝙪𝙥 𝘾𝙝𝙖𝙩𝙨", rowId: `${usedPrefix + command} gconly`},
+{title: "👎🏻 𝙰𝙽𝚃𝙸𝙰𝚁𝙰𝙱𝙴𝚂", description: "𝙰𝙻 𝙴𝙽𝚅𝙸𝙰𝚁 𝙼𝙴𝙽𝚂𝙰𝙹𝙴 𝚄𝙽 𝙽𝚄𝙼𝙴𝚁𝙾 𝙰𝚁𝙰𝙱𝙴, 𝙴𝙻 𝙱𝙾𝚃 𝙻𝙾 𝚂𝙰𝙲𝙰", rowId: `${usedPrefix + command} antiarabes`},
 ]}, ]
 let name = await conn.getName(m.sender)
 
